@@ -1,0 +1,2 @@
+com.ppm.corestarter.infrastructure.bootstrap.utils.PasswordEncoderUtils
+com.ppm.corestarter.infrastructure.bootstrap.configuration.security.SecurityConfiguration
